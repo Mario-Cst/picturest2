@@ -1,0 +1,9 @@
+.button {
+    border:none;
+    border-radius: 20px;
+    margin-right: 20px;
+    background-color: teal;
+}
+.button:hover{
+    background-color: tomato;
+}

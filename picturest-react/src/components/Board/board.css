@@ -1,0 +1,10 @@
+.boardMain {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1324px;
+    height: 388px;
+    margin-left: 48px;
+    margin-top: 10px;
+    margin-right: 46px;
+    background-color: crimson;
+}

@@ -1,0 +1,22 @@
+import "./styles.css";
+import { useState } from "react";
+
+export default function App() {
+  const [isHovered, setIsHovered] = useState(false);
+
+  return (
+    <div
+      className="App"
+      onMouseLeave={() => setIsHovered(false)}
+      onMouseEnter={() => setIsHovered(true)}
+    >
+      <h1>Hello CodeSandbox</h1>
+      {isHovered && <span>Aparezco solo si estoy hevered</span>}
+      {isHovered ? (
+        <h2>Start editing to see some magic happen!</h2>
+      ) : (
+        <span>Not hovered</span>
+      )}
+    </div>
+  );
+}

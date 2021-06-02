@@ -1,0 +1,17 @@
+.main_Card {
+    width: 257px;
+    height: 233px;
+    margin-left: 38px;
+}
+.main_Card > img {
+    width: 215px;
+    height: 143.33px;
+    border-radius: 10px;
+}
+.main_Card > span{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.02em;
+}

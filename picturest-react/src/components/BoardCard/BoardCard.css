@@ -1,0 +1,26 @@
+.mainBoardCard {
+    margin-right: 42px;
+    width: 215px;
+    height: 176px;
+    left: 0px;
+    top: 0px;
+    background: #F1F1F1;
+    border-radius: 14px;
+}
+.boardTittleCard {
+    margin-top: 142px;
+    margin-right: 114px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+.boardTittlePins {
+    margin-right: 114px;
+    margin-top: -12px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 12px;
+}

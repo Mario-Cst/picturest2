@@ -1,0 +1,21 @@
+.navbar {
+
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logoclass{
+    display: flex;
+}
+.logoclass>img{
+    height: 48px;
+    width: 48px;
+}
+.button_Home {
+    display: flex;
+    width: 100%;
+    border: none;
+    justify-content: flex-start;
+    margin-left: 50px;
+}

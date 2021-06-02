@@ -1,0 +1,7 @@
+.logo_picture{
+    display: flex;
+    margin-left: 25px;
+}
+.logo_picture>p{
+    margin-left: 16px;
+}

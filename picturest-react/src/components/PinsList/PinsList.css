@@ -1,0 +1,24 @@
+.main{
+    width: 1324px;
+    height: 820px;
+    border: 1px solid #000000;
+    margin-right: 46px;
+    margin-left: 42px;
+}
+.board {
+    display: flex;
+    flex-wrap: wrap;
+}
+.heather_pins_list>span{
+    font-weight: bold;
+    font-size: 18px;
+}
+.heather_pins_list{
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.main > input {
+    margin-bottom: 15px;
+}

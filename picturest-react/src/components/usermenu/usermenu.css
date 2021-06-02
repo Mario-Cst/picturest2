@@ -1,0 +1,9 @@
+.img_user{
+    display: flex;
+    margin-right: 42px;
+}
+.img_user>img{
+    border-radius: 50%;
+    
+}
+
